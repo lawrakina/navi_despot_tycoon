@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b719909723ad44b58ecacc312bba506, type: 3}
+  m_Name: JustTrackSettings
+  m_EditorClassIdentifier: 
+  androidApiToken: prod-33cfe731bbd8fa87e296e1f5c35252122fa34f2aff1bfc1965eaab40fdd66eba
+  iosApiToken: 
+  androidTrackingProvider: 0
+  iosTrackingProvider: 0
+  androidIronSourceSettings:
+    appKey: 
+    enableBanner: 0
+    enableInterstitial: 0
+    enableRewardedVideo: 0
+    enableOfferwall: 0
+  iosIronSourceSettings:
+    appKey: 
+    enableBanner: 0
+    enableInterstitial: 0
+    enableRewardedVideo: 0
+    enableOfferwall: 0

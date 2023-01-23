@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf3744665a3049a790995dee54130adb, type: 3}
+  m_Name: SkinsConfig
+  m_EditorClassIdentifier: 
+  <UnlockFromStartIndex>k__BackingField: 0
+  <UnlockSkinForCompleteLevelPercent>k__BackingField: 0
+  _skinsInGame:
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: 6d0be6a51c85b6945b8419422e80e105, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: 55fa57a2d66fd8b42b9e3bb1d393fb31, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}
+  - SkinVariantsByVisual:
+    - Visual: {fileID: 11400000, guid: e2269a24df656a44d8808cb524d8c56d, type: 2}
+      Skin: {fileID: 11400000, guid: fcf0a5de832892a44ab7bc4ceb737c1f, type: 2}

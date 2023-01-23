@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06ca935068f748c884c58935d7ba33d7, type: 3}
+  m_Name: MeatMixerConfig
+  m_EditorClassIdentifier: 
+  _factoryRequirements:
+  - <UseGroupAsset>k__BackingField: 1
+    <Resource>k__BackingField: {fileID: 0}
+    <ResourceGroup>k__BackingField: {fileID: 11400000, guid: 2961dc6d636f9764d8c778b924aba58f, type: 2}
+    <MaxInputCapacity>k__BackingField: {fileID: 11400000, guid: 74ebbde5e05950f4bae5d350c1e7b540, type: 2}
+    <NeedCountToStart>k__BackingField: 1
+  _outputResources: {fileID: 11400000, guid: 4ecab3fd6f26aa84fb5c03861bb8e1ac, type: 2}
+  _outputCount: {fileID: 11400000, guid: 59788440e86a97e4aa32fb7f89f375eb, type: 2}
+  _hasOutputMax: 0
+  _outputMax: {fileID: 11400000, guid: 1ff9b4e1a2b2bdd40a1ce6de5315c795, type: 2}
+  _hasProductionCooldown: 0
+  _productionCooldown: {fileID: 11400000, guid: f568038baafa94d41bc81bc9ba4b8cd5, type: 2}
+  _productionTime: {fileID: 11400000, guid: ccccdfd6ab4b19b4e912decccbc33663, type: 2}
+  _changeableUpgrades:
+  - {fileID: 11400000, guid: ccccdfd6ab4b19b4e912decccbc33663, type: 2}
+  - {fileID: 11400000, guid: 74ebbde5e05950f4bae5d350c1e7b540, type: 2}
+  _useResourceMultiplier: 1

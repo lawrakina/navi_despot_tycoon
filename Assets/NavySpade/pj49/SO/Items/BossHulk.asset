@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0374975ba06c4a42bf01433acef09ec6, type: 3}
+  m_Name: BossHulk
+  m_EditorClassIdentifier: 
+  <Icon>k__BackingField: {fileID: 21300000, guid: 978f5921e87d04a7f88a2dc6c330fab2, type: 3}
+  <DisplayName>k__BackingField: Boss for 1 level
+  <Prefab>k__BackingField: {fileID: 5913832817533380649, guid: 4b571a375b855cb449e079f28db42754, type: 3}
+  <HasLimit>k__BackingField: 0
+  <UseItemGroup>k__BackingField: 0
+  <LimitCount>k__BackingField: 0
+  <Group>k__BackingField: {fileID: 0}
+  <Multiplier>k__BackingField: 0
+  <CountInVisual>k__BackingField: 0

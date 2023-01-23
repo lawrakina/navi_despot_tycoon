@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06ca935068f748c884c58935d7ba33d7, type: 3}
+  m_Name: ReproductorConfig
+  m_EditorClassIdentifier: 
+  _factoryRequirements:
+  - <UseGroupAsset>k__BackingField: 0
+    <Resource>k__BackingField: {fileID: 11400000, guid: 01213437cb7df234da99f902b32bced7, type: 2}
+    <ResourceGroup>k__BackingField: {fileID: 0}
+    <MaxInputCapacity>k__BackingField: {fileID: 11400000, guid: 1b64a8b8f618f6742957da77e0c3b4ae, type: 2}
+    <NeedCountToStart>k__BackingField: 2
+  _outputResources: {fileID: 11400000, guid: 01213437cb7df234da99f902b32bced7, type: 2}
+  _outputCount: {fileID: 11400000, guid: 04937803e3b9f70479b5d321ee79b803, type: 2}
+  _hasOutputMax: 1
+  _outputMax: {fileID: 11400000, guid: 08f88280bc557104d93421731c0b4645, type: 2}
+  _hasProductionCooldown: 0
+  _productionCooldown: {fileID: 11400000, guid: 3dc1ddf1477cafe429b41bc3850c32a7, type: 2}
+  _parallelProductionCount: {fileID: 0}
+  _productionTime: {fileID: 11400000, guid: 4f172d2a98b8795429d20b5f563167f0, type: 2}
+  _changeableUpgrades:
+  - {fileID: 11400000, guid: 04937803e3b9f70479b5d321ee79b803, type: 2}
+  - {fileID: 11400000, guid: 1b64a8b8f618f6742957da77e0c3b4ae, type: 2}
+  _useResourceMultiplier: 0
+  _muscleUnitHealthPoints: {fileID: 0}
+  _muscleUnitPowerAttack: {fileID: 0}

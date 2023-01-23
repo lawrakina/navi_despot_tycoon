@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d8bee0d97194c91b6fe937350bfd2a8, type: 3}
+  m_Name: Spended Gold
+  m_EditorClassIdentifier: 
+  <HeaderName>k__BackingField: spend 10 coin
+  <Description>k__BackingField: 'BUY BUY BUY BUY BUY BUY BUY '
+  <CompletionType>k__BackingField:
+    id: 0
+  <AttachedVariable>k__BackingField:
+    Key: Currency.Gold
+  <Reward>k__BackingField:
+    id: 1
+  <LifeTime>k__BackingField:
+    id: 2
+  references:
+    version: 1
+    00000000:
+      type: {class: GetScore, ns: Main.Meta.Quests, asm: Assembly-CSharp}
+      data:
+        IsPositiveOrNegative: 0
+        _targetScore: 10
+    00000001:
+      type: {class: CurrencyReward, ns: Main.Meta.Economic.Rewards, asm: Assembly-CSharp}
+      data:
+        "\u0421urrency": {fileID: 11400000, guid: a977d6d329bfa5141a1a86d77a2fcf24, type: 2}
+        Count: 10
+    00000002:
+      type: {class: Infinity, ns: Main.Meta.Quests, asm: Assembly-CSharp}

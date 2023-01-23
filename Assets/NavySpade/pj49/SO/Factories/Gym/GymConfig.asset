@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06ca935068f748c884c58935d7ba33d7, type: 3}
+  m_Name: GymConfig
+  m_EditorClassIdentifier: 
+  _factoryRequirements:
+  - <UseGroupAsset>k__BackingField: 0
+    <Resource>k__BackingField: {fileID: 11400000, guid: 01213437cb7df234da99f902b32bced7, type: 2}
+    <ResourceGroup>k__BackingField: {fileID: 0}
+    <MaxInputCapacity>k__BackingField: {fileID: 11400000, guid: 484b86cf2ec321f469244cf6a7fe5208, type: 2}
+    <NeedCountToStart>k__BackingField: 1
+  _outputResources: {fileID: 11400000, guid: 4845591b267dabf4a9b35456f454ac5f, type: 2}
+  _outputCount: {fileID: 11400000, guid: 37b0b3e420a6832459bc6477deaf0e64, type: 2}
+  _hasOutputMax: 1
+  _outputMax: {fileID: 11400000, guid: 7964a24fb3438e243ade3cfc9ab44604, type: 2}
+  _hasProductionCooldown: 1
+  _productionCooldown: {fileID: 11400000, guid: 4e9dfb57d39e4f74f949d328b9d352fb, type: 2}
+  _parallelProductionCount: {fileID: 11400000, guid: 2780bdea2aaa5f74a8cc57394f4f83b8, type: 2}
+  _productionTime: {fileID: 11400000, guid: d5550814652ee2d4e8313bc54ddde61c, type: 2}
+  _changeableUpgrades:
+  - {fileID: 11400000, guid: 2780bdea2aaa5f74a8cc57394f4f83b8, type: 2}
+  - {fileID: 11400000, guid: 5a85e1e3817a1454eae6c7cadb4e4ac4, type: 2}
+  _useResourceMultiplier: 0
+  _resourceForRestartProduction: {fileID: 0}
+  _resourcesForRestartProduction: []
+  _muscleUnitHealthPoints: {fileID: 0}
+  _muscleUnitPowerAttack: {fileID: 11400000, guid: 5a85e1e3817a1454eae6c7cadb4e4ac4, type: 2}
+  _maxInputCapacity: {fileID: 0}

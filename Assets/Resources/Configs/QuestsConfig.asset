@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b1f712932e14fc1b55f28dd07a397db, type: 3}
+  m_Name: QuestsConfig
+  m_EditorClassIdentifier: 
+  <DailyQuests>k__BackingField:
+    <Quests>k__BackingField:
+    - {fileID: 11400000, guid: 0ba43bdedaafade43bf69e009bd3f7cd, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    <RefusedTimeSeconds>k__BackingField: 86400
+    <AddedQuestCount>k__BackingField: 2
+  <WeeklyQuests>k__BackingField:
+    <Quests>k__BackingField:
+    - {fileID: 11400000, guid: 57ef9670d9cb3a64a9fdd92128211644, type: 2}
+    <RefusedTimeSeconds>k__BackingField: 604800
+    <AddedQuestCount>k__BackingField: 1
+  <UpdateQuestsTime>k__BackingField: 0.9
+  <ScriptablesResourcesPath>k__BackingField: Quests

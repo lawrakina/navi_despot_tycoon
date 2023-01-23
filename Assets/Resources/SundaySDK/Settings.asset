@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa81057836b542279d9384bb22e55e7, type: 3}
+  m_Name: Settings
+  m_EditorClassIdentifier: 
+  appsFlyerDevKey: N7kaNvpnoRHLC8ovLRC2Z
+  iOSAppId: 
+  gameAnalyticsAndroidGameKey: 4a0819e7d03fdc2bbccece3165d68368
+  gameAnalyticsAndroidSecretKey: cb1655d4a92e98c43c483d261b8dd2ac97b84f37
+  gameAnalyticsIOSGameKey: 
+  gameAnalyticsIOSSecretKey: 
+  justTrackAndroidToken: prod-33cfe731bbd8fa87e296e1f5c35252122fa34f2aff1bfc1965eaab40fdd66eba
+  justTrackIOSToken: 
+  ironSourceAndroidAppKey: 
+  ironSourceIOSAppKey: 
+  testGroup1Settings:
+    ironsourceShouldInitialize: 1
+    isBannerEnabled: 1
+    isInterstitialEnabled: 1
+    interstitialCooldown: 30
+    isRewardedVideoEnabled: 1
+    isOfferwallEnabled: 1
+  testGroup2Settings:
+    ironsourceShouldInitialize: 1
+    isBannerEnabled: 1
+    isInterstitialEnabled: 1
+    interstitialCooldown: 30
+    isRewardedVideoEnabled: 1
+    isOfferwallEnabled: 1
+  testGroup3Settings:
+    ironsourceShouldInitialize: 1
+    isBannerEnabled: 1
+    isInterstitialEnabled: 1
+    interstitialCooldown: 30
+    isRewardedVideoEnabled: 1
+    isOfferwallEnabled: 1
+  bannerPosition: 2
+  adMobAndroidID: 
+  adMobIosID: 

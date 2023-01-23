@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 817e556826d7184469add214062c53bc, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  Data:
+    isTutorial: 0
+    distance: 50
+    player:
+      godMode: 0
+    LevelElements:
+      randomOrder: 1
+      startElement: {fileID: 0}
+      finishElement: {fileID: 0}
+      gameElements: []
+    view:
+      <Sky>k__BackingField:
+        enabled: 1
+        material: {fileID: 0}
+        colors: []
+      <Fog>k__BackingField:
+        enabled: 0
+        color: {r: 0, g: 0, b: 0, a: 0}
+        startDistance: 0
+        endDistance: 0

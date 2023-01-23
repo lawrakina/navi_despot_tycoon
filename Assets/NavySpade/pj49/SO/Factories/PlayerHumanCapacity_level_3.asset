@@ -1,0 +1,180 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e3ce1ec028dc487faba6b2a9b20249c1, type: 3}
+  m_Name: PlayerHumanCapacity_level_3
+  m_EditorClassIdentifier: 
+  _visualData: {fileID: 11400000, guid: 625124eaafee2f54c85b9a8c26c7bcb0, type: 2}
+  _upgrades:
+  - value: 10
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 0
+  - value: 11
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 3
+  - value: 12
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 5
+  - value: 13
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 10
+  - value: 14
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 25
+  - value: 15
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 50
+  - value: 16
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 75
+  - value: 17
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 100
+  - value: 18
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 125
+  - value: 19
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 132
+  - value: 20
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 150
+  - value: 21
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 175
+  - value: 22
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 200
+  - value: 23
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 225
+  - value: 24
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 250
+  - value: 25
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 275
+  - value: 26
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 300
+  - value: 27
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 320
+  - value: 28
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 350
+  - value: 29
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 400
+  - value: 30
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 500
+  - value: 31
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 525
+  - value: 32
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 550
+  - value: 33
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 575
+  - value: 34
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 600
+  - value: 35
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 640
+  - value: 36
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 700
+  - value: 37
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 725
+  - value: 38
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 750
+  - value: 39
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 775
+  - value: 40
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 800
+  - value: 41
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 825
+  - value: 42
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 850
+  - value: 43
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 875
+  - value: 44
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 900
+  - value: 45
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 925
+  - value: 46
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 950
+  - value: 47
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 975
+  - value: 48
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 1000
+  - value: 49
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 1111
+  - value: 50
+    Price:
+      Resource: {fileID: 11400000, guid: 8e4439ea53abb7049a4eb670d4790349, type: 2}
+      Value: 1250
